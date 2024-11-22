@@ -1,0 +1,84 @@
+FrameWidgetClass rootFrame {
+ clipchildren 0
+ position 0 0
+ size 1000 200
+ valign bottom_ref
+ hexactpos 1
+ vexactpos 1
+ hexactsize 1
+ vexactsize 1
+ scaled 0
+ fixaspect fixwidth
+ {
+  MultilineTextWidgetClass ChatTextWidget2 {
+   visible 0
+   ignorepointer 1
+   color 0 0 0 1
+   position 2 3
+   size 1 1
+   halign center_ref
+   valign center_ref
+   hexactpos 1
+   vexactpos 1
+   hexactsize 0
+   vexactsize 0
+   text "Zenarchist: Test chat"
+   font "gui/fonts/metron"
+   "text halign" center
+   "text valign" center
+   wrap 1
+  }
+  MultilineTextWidgetClass ChatTextWidget {
+   visible 0
+   ignorepointer 1
+   position 0 0
+   size 1 1
+   halign center_ref
+   valign center_ref
+   hexactpos 0
+   vexactpos 0
+   hexactsize 0
+   vexactsize 0
+   text "Zenarchist: Test chat"
+   font "gui/fonts/metron"
+   "text halign" center
+   "text valign" center
+   wrap 1
+  }
+  MultilineTextWidgetClass ChatTextWidgetWhisper2 {
+   visible 0
+   ignorepointer 1
+   color 0 0 0 1
+   position 2 3
+   size 1 1
+   halign center_ref
+   valign center_ref
+   hexactpos 1
+   vexactpos 1
+   hexactsize 0
+   vexactsize 0
+   text "Zenarchist: Test chat"
+   font "gui/fonts/metron-italic"
+   "text halign" center
+   "text valign" center
+   wrap 1
+  }
+  MultilineTextWidgetClass ChatTextWidgetWhisper {
+   visible 0
+   ignorepointer 1
+   position 0 0
+   size 1 1
+   halign center_ref
+   valign center_ref
+   hexactpos 0
+   vexactpos 0
+   hexactsize 0
+   vexactsize 0
+   text "Zenarchist: Test chat"
+   font "gui/fonts/metron-italic"
+   "text halign" center
+   "text valign" center
+   wrap 1
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\data",
+    "\\data\\layouts",
+    "\\scripts",
+    "\\scripts\\3_game",
+    "\\scripts\\4_world",
+    "\\scripts\\4_world\\entities",
+    "\\scripts\\4_world\\entities\\manbase",
+    "\\scripts\\5_mission",
+    "\\scripts\\5_mission\\mission"
+  ],
+  "SelectedNode": "\\scripts\\5_mission\\mission\\MissionBase.c",
+  "PreviewInSolutionExplorer": false
+}
