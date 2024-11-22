@@ -4,7 +4,9 @@ We all know the golden rule: no mic, no life.
 
 There's a good reason for this rule: you can't trust someone you can't communicate with, and no one has time to read text messages. Hell, most DayZ players can't even read.
 
-But, for the mutes among us who either don't have a mic (or their mic has stopped working temporarily and they need to resort to text chat to beg for their lives) - they might buy themselves some time by having their text messages appear above their heads RuneScape style, this mod might just save their lives. Or at least prolong their execution.
+But, for the mutes among us who either don't have a mic (or their mic has stopped working temporarily and they need to resort to text chat to beg for their lives) - they might buy themselves some time by having their text messages appear above their heads RuneScape style, and this mod might just save their lives. 
+
+Or at least prolong their execution.
 
 When a player types text chat in-game the text will appear above their head with the same limitations of voice chat (hence the "immersive" in my mod's title).
 
@@ -27,6 +29,8 @@ Installation Instructions:
 Install this mod like any other mod - copy it into your server folder and add it to your mods list. Make sure to copy the .bikey into your server keys if you're not using a server management tool like OmegaManager which does that automatically.
 
 This mod must be installed on both server and client.
+
+Bonus setting: if you run Syberia or some other mod that changes the player's character name to be different to their Steam profile name, check the Extras folder for an example of how to override the player name in text chat with this mod.
 
 Repack & Source Code:
 
